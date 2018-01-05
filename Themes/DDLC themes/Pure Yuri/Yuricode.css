@@ -1,0 +1,82 @@
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
+/* Background */
+
+/* Find an image which is a suitable size for the background. Once you have the picture, upload it to imgur.com. Once it has procecced right click the image and click open in new tab. Go to that new tab and select the URL. 
+It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that URL in the place of (YourURLHere) which is located on line "8". (Make sure to put it inside the brackets)*/
+.app {
+    background-image:url("https://i.imgur.com/CugAgaa.jpg") !Important; 
+    background-size:cover !important;
+}
+/*DoNotTouchThisUnlessYouKnowWhatYouAreDoing*/
+
+/*Transparency*/
+#voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, .private-channels,
+ .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, 
+ .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .layer, .layers, 
+ .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, 
+ .theme-dark .channel-members, .layer, .layers {
+    background: transparent !important;
+}
+
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
+
+/*Use the website "http://htmlcolorcodes.com/" to find the RGB values for the colors you want, The A (seen below) at the end is the opacity, rated 0 (transparent) to 1 (Solid)*/
+
+/*ChannelList*/
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: rgba(216, 216, 216, 1); /*This changes the color of none selected, none hovered channels*/	
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    color: rgba(198, 97, 180, 1); /*This changes the color of selected channels*/
+}
+.nameMutedText-1YDcP-, .nameMutedVoice-26k4cP {
+	color:rgba(130, 50, 115, 1); /*This changes the color of muted channels*/
+}
+.nameHoveredText-2FFqiz {
+    color: rgba(127, 36, 160, 1); /*This changes the color of hovered text channels*/
+}
+.nameHoveredVoice-TIoHRJ {
+    color: rgba(127, 36, 160, 1); /*This changes the color of hovered voice channels*/
+}
+.nameLockedText-2fGz07 {
+    color: rgba(101, 29, 127, 1); /*This changes the color of locked text channels*/
+}
+.nameLockedVoice-wNOMNa {
+    color: rgba(101, 29, 127, 1); /*This changes the color of locked voice channels*/
+}
+
+
+/*Catagories*/
+.nameDefault-Lnjrwm {
+    color: rgba(127, 36, 160, 1); /*This changes the color of channel catagories*/
+}
+.nameCollapsed-3_ChMu {
+    color: rgba(180, 180, 180, 1); /*This changes the color of collapsed catagories*/
+}
+.iconDefault-xzclSQ {
+    color: rgba(127, 36, 160, 1); /*This changes the color of the arrow on catagories*/
+}
+.iconCollapsed-1INdMX {
+    color: rgba(127, 36, 160, 1); /*This changes the color of the arrow on collapsed catagories*/
+}
+.iconMuted-Hb4ttQ {
+    color: rgba(66, 19, 84, 1); /*This changes the color of the arrow on muted catagories*/
+}
+ .nameMuted-1n0LSj {
+    color: rgba(98, 96, 99, 1); /*This changes the color of  muted catagories*/
+}
+
+
+/*Catagory backgrounds*/
+.nameDefault-Lnjrwm {
+    background-color: rgba(216, 216, 216, 0); /*This changes the color of the background of channel catagories*/
+    border-radius: 3px /*higher this number to round the edges of the background*/
+	}
+.nameCollapsed-3_ChMu {
+    background-color: rgba(0, 0, 0, 0); /*This changes the color of the background of collapsed catagories*/
+	border-radius: 70px /*higher this number to round the edges of the background*/
+}
