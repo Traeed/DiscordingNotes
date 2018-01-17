@@ -6,7 +6,7 @@
 /* Find an image which is a suitable size for the background. Once you have the picture, upload it to imgur.com. Once it has procecced right click the image and click open in new tab. Go to that new tab and select the URL. 
 It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that URL in the place of (YourURLHere) which is located on line "8". (Make sure to put it inside the brackets)*/
 .app {
-    background-image:url(https://cdn.discordapp.com/attachments/395429871515336705/403317885377708032/Background.png) !important; 
+    background-image:url(https://i.imgur.com/GN79HVS.png) !important; 
     background-size:cover !important; 
 }
 /*DoNotTouchThisUnlessYouKnowWhatYouAreDoing*/
@@ -87,8 +87,4 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
 /* fix not having a background image anymore */
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
   background: transparent !important;
-}
-/* optionally adjust background brightness (0: original image, 1: black) */
-.layers-20RVFW {
-  background: rgba(0,0,0, 0.3) !important;
 }
