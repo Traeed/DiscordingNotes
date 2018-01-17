@@ -48,10 +48,7 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
 .nameLockedVoice-wNOMNa {
     color: rgba(124, 9, 15, 1); /*This changes the color of locked voice channels*/
 }
-.nameUnreadText-1pxldj {
-	color: rgba(150, 24, 70, 1); 
-}
-  
+ 
 /*Catagories*/
 .nameDefault-Lnjrwm {
     color: rgba(150, 24, 70, 1) /*This changes the color of channel catagories*/
