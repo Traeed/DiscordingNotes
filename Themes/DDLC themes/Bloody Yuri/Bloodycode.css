@@ -16,7 +16,7 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
  .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, 
  .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .layer, .layers, 
  .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, 
- .theme-dark .channel-members, .layers, .guilds-wrapper .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+ .theme-dark .channel-members, .layers, .guilds-wrapper {
 	 background: transparent !important; 
 }
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
