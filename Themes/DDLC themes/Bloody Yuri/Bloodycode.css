@@ -19,9 +19,7 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
  .theme-dark .channel-members, .layers, .guilds-wrapper {
 	 background: transparent !important; 
 }
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
-}
+
 .container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
     background-color: transparent !important; 
 }
@@ -85,4 +83,6 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
     background-color: rgba(0, 0, 0, 0); /*This changes the color of the background of collapsed catagories*/
 	border-radius: 70px /*higher this number to round the edges of the background*/
 }
-
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
