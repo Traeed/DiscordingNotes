@@ -16,7 +16,7 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
  .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, 
  .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .layer, .layers, 
  .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, 
- .theme-dark .channel-members, .layers, .guilds-wrapper {
+ .theme-dark .channel-members, .layers, .guilds-wrapper .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
 	 background: transparent !important;
 }
 
@@ -84,7 +84,4 @@ It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that UR
     background-color: rgba(0, 0, 0, 0); /*This changes the color of the background of collapsed catagories*/
 	border-radius: 70px /*higher this number to round the edges of the background*/
 }
-/* fix not having a background image anymore */
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
-}
+
